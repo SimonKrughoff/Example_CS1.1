@@ -10,3 +10,9 @@ identify the specific quantities that need to be standardized.
 properties.
 * Key Task CS1.1.3 ( 12/15 ): Deliver first version of document outlining galaxy properties
 of interest (Confluence?).
+
+### Suggested organization
+My suggestion is to have a repository per deliverable, where applicable.  Each key task will have
+a subdirectory.  I suggest we have a `source` directory in each key task area for any supporting
+code that goes with an effor.  There will also be a `doc` directory to hold documents in markdown,
+latex, or binary formats.  The idea is to version everything and give us a good way to diff things.
