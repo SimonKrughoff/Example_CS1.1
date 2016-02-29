@@ -1,5 +1,4 @@
-# Key Task CS1.1.1:  Schedule and conduct a first meeting of interested parties to
-identify the specific quantities that need to be standardized.
+# Key Task CS1.1.1:  Schedule and conduct a first meeting of interested parties to identify the specific quantities that need to be standardized.
 
 Inerested parties: Simon, Katrin, Andy
 
